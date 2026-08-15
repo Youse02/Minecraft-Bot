@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "LPX_WORLD.aternos.me",
-    "port": 26535,
+    "port":26535,
     "version": "1.20.1",
     "try-creative": false
   },
